@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ar.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/br.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/canada.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/cd.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ch.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ci.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/cl.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/co.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/cuba.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/de.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ec.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/fi.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/gb.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/gvatemalla.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/hr.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ic_africa.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ic_australia.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ic_eurasia.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ic_europa.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ic_jamaika.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ic_north_america.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ic_south_america.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/jp.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/kr.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/kz.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ma.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/mexico.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/nz.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/pahama.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/ph.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/qa.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/sn.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/drawable/tz.xml" value="0.1175" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/layout/activity_main.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/layout/fragment_continent.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/layout/fragment_country.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ContinentAndCountry/app/src/main/res/layout/item_continent.xml" value="0.16032608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
