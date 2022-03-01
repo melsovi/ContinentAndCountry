@@ -38,6 +38,7 @@ public class CountryFragment extends Fragment {
     private void onClick(Continent continent) {
     }
 
+
     private void loadData() {
         continent = new ArrayList<>();
         Bundle bundle = getArguments();
